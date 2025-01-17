@@ -43,10 +43,10 @@ Contracts Data: the primary dataset used for this analysis is the "Contracts.xls
 ## Visualization
 **1. Contracts and Revenue Amounts:**
 
-1.1. Correlation between revenues and contracts. Analysis of the relationship between revenues and contract amounts indicates a dependence between them. The graph shows that the company receives income not only from contracts. At the same time, the analysis also emphasizes the need to diversify sources of income.
+**1.1. Correlation between revenues and contracts.** Analysis of the relationship between revenues and contract amounts indicates a dependence between them. The graph shows that the company receives income not only from contracts. At the same time, the analysis also emphasizes the need to diversify sources of income.
 
-1.2. Trends in revenues and contracts. During the year, the company's revenues show significant fluctuations. For example, August and December stand out as months with the highest revenues and contract amounts. In August, the company reached the highest level of revenues ($500), while the amount of concluded contracts amounted to $148,700. In December, although the revenue was slightly lower ($455), the amount of contracts was even higher — $161. Conversely, there are places with insignificant contract amounts in February $25, March $0, July $25.
+**1.2. Trends in revenues and contracts.** During the year, the company's revenues show significant fluctuations. For example, August and December stand out as months with the highest revenues and contract amounts. In August, the company reached the highest level of revenues ($500), while the amount of concluded contracts amounted to $148,700. In December, although the revenue was slightly lower ($455), the amount of contracts was even higher — $161. Conversely, there are places with insignificant contract amounts in February $25, March $0, July $25.
 
-1.3. Seasonal and cyclical fluctuations. The dynamics of revenues and contracts also indicate the presence of seasonal or cyclical fluctuations. For example, every two months the contract amounts are higher, and then two months are followed by smaller amounts and one month of lower revenues, indicating a likely decrease in business activity in attracting new clients.
+**1.3. Seasonal and cyclical fluctuations.** The dynamics of revenues and contracts also indicate the presence of seasonal or cyclical fluctuations. For example, every two months the contract amounts are higher, and then two months are followed by smaller amounts and one month of lower revenues, indicating a likely decrease in business activity in attracting new clients.
 
 ![image](https://github.com/user-attachments/assets/6236f59c-1b08-472a-9583-069a1d142279)
